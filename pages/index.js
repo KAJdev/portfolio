@@ -19,7 +19,7 @@ export default function Home() {
           </h1>
 
           <p className='font-mono mt-3'>
-            Full-stack engineer and Computer Science student with a little bit of a passion for web development.
+            Full-stack engineer and Computer Science student with a passion for design.
           </p>
 
           <h2 className='font-mono font-semibold text-[#c0c0c0] text-lg mt-5'>
