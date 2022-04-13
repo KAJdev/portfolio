@@ -58,7 +58,7 @@ export default function Home() {
           </h2>
 
           <div className='flex flex-row '>
-            <img src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,discord,docker,figma,pr" />
+            <img src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,docker,figma,pr" />
           </div>
         </div>
       </main>
