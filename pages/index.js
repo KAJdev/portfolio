@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <div className='w-[40em] text-left'>
+        <div className='w-9/10 sm:w-[40em] text-left'>
 
           <h1 className="text-6xl font-semibold">
             Kaj
