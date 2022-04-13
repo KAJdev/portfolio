@@ -57,9 +57,7 @@ export default function Home() {
             SKILLS
           </h2>
 
-          <div className='flex flex-row '>
-            <img src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,docker,figma,pr" />
-          </div>
+          <img src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,docker,figma,pr" alt='skill icons' />
         </div>
       </main>
     </div>
