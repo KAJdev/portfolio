@@ -50,14 +50,15 @@ export default function Home() {
           </h2>
 
           <div className='flex flex-row '>
-            Still building this out...
+            
           </div>
 
           <h2 className='font-mono font-semibold text-[#c0c0c0] text-lg mt-5'>
             SKILLS
           </h2>
 
-          <img src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,docker,figma,pr" alt='skill icons' />
+          <img className='hidden sm:block' src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,docker,figma,pr&perline=10" alt='skill icons' />
+          <img className='block sm:hidden' src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,js,html,css,mongodb,redis,react,next,flask,tailwind,git,cloudflare,linux,unity,docker,figma,pr&perline=6" alt='skill icons' />
         </div>
       </main>
     </div>
