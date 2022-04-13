@@ -69,7 +69,7 @@ export default function Home() {
                   SafeLink
                 </h1>
                 <p className='font-mono'>
-                  Founder & Maintainer
+                  Founder / Maintainer
                 </p>
               </div>
             </a>
