@@ -50,7 +50,7 @@ export default function Home() {
           </h2>
 
           <div className='grid grid-cols-1 gap-2'>
-            <a className='flex flex-row' href='https://blox.link' target={'_blank'} rel='referrer'>
+            <a className='flex flex-row' href='https://blox.link' target={'_blank'} rel="noreferrer">
               <img src='/bloxlink.png' className='w-12 h-12 rounded-xl' />
               <div className='flex flex-col ml-2'>
                 <h1 className='font-semibold text-lg'>
@@ -62,7 +62,7 @@ export default function Home() {
               </div>
             </a>
 
-            <a className='flex flex-row' href='https://safelink.gg' target={'_blank'} rel='referrer'>
+            <a className='flex flex-row' href='https://safelink.gg' target={'_blank'} rel="noreferrer">
               <img src='/safelink.png' className='w-12 h-12 rounded-xl' />
               <div className='flex flex-col ml-2'>
                 <h1 className='font-semibold text-lg'>
@@ -74,7 +74,7 @@ export default function Home() {
               </div>
             </a>
 
-            <a className='flex flex-row' href='https://tixte.com' target={'_blank'} rel='referrer'>
+            <a className='flex flex-row' href='https://tixte.com' target={'_blank'} rel="noreferrer">
               <img src='/tixte.png' className='w-12 h-12 rounded-xl' />
               <div className='flex flex-col ml-2'>
                 <h1 className='font-semibold text-lg'>
