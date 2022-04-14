@@ -91,8 +91,8 @@ export default function Home() {
             SKILLS
           </h2>
 
-          <img className='hidden sm:block' src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,mongodb,redis,next,flask,tailwind,git,unity,docker,figma,pr&perline=10" alt='skill icons' />
-          <img className='block sm:hidden' src="https://skillicons.dev/icons?i=python,cs,rust,nodejs,mongodb,redis,next,flask,tailwind,git,unity,docker,figma,pr&perline=6" alt='skill icons' />
+          <img className='hidden sm:block' src="https://skillicons.dev/icons?i=python,cs,unity,nodejs,mongodb,redis,next,flask,tailwind,figma,pr&perline=10" alt='skill icons' />
+          <img className='block sm:hidden' src="https://skillicons.dev/icons?i=python,cs,unity,nodejs,mongodb,redis,next,flask,tailwind,figma,pr&perline=6" alt='skill icons' />
         </div>
       </main>
     </div>
