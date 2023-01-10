@@ -59,11 +59,11 @@ export default function Home() {
                   delay: 0.1
                 }}
               >
-                <a className='text-blue-500 hover:underline' href="https://github.com/kajdev">GitHub</a>
+                <a className='text-blue-500 hover:underline' href="https://github.com/kajdev" target='_blank' rel="noreferrer">GitHub</a>
                 <span className='text-blue-500/30'>•</span>
-                <a className='text-blue-500 hover:underline' href="https://twitter.com/KAJ718">Twitter</a>
+                <a className='text-blue-500 hover:underline' href="https://twitter.com/KAJ718" target='_blank' rel="noreferrer">Twitter</a>
                 <span className='text-blue-500/30'>•</span>
-                <a className='text-blue-500 hover:underline' href="https://linkedin.com/in/ezekiel-developer">LinkedIn</a>
+                <a className='text-blue-500 hover:underline' href="https://linkedin.com/in/ezekiel-developer" target='_blank' rel="noreferrer">LinkedIn</a>
               </motion.div>
             </motion.div>
           )}
