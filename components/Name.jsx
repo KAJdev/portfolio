@@ -45,7 +45,7 @@ export function Name({ onDone }) {
   }, [done, name, onDone]);
 
   return (
-    <motion.p layout="preserve-aspect" layoutId='name' className="font-mono whitespace-pre-wrap text-center font-bold">
+    <motion.p layout="preserve-aspect" layoutId='name' className="font-mono whitespace-pre-wrap text-center font-bold sm:text-base text-xs">
       {name}
     </motion.p>
   );
