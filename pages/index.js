@@ -63,7 +63,7 @@ export default function Home() {
                 <span className='text-blue-500/30'>•</span>
                 <a className='text-blue-500 hover:underline' href="https://twitter.com/KAJ718">Twitter</a>
                 <span className='text-blue-500/30'>•</span>
-                <a className='text-blue-500 hover:underline' href="www.linkedin.com/in/ezekiel-developer">LinkedIn</a>
+                <a className='text-blue-500 hover:underline' href="https://linkedin.com/in/ezekiel-developer">LinkedIn</a>
               </motion.div>
             </motion.div>
           )}
