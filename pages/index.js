@@ -38,7 +38,7 @@ export default function Home() {
               }}
             >
               <p className='text-center w-full'>
-                A <span className='text-green-500'>developer</span> & <span className='text-green-500'>designer</span> building @ <a className='text-blue-500 hover:underline' href="https://stability.ai" target='_blank' rel="noreferrer">Stability AI</a>
+                A <span className='text-green-500'>developer</span> & <span className='text-green-500'>designer</span> building @ <a className='text-indigo-500 hover:underline' href="https://runpod.io" target='_blank' rel="noreferrer">RunPod</a>
               </p>
 
               <motion.div
