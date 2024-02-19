@@ -1,11 +1,16 @@
 import Head from 'next/head';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Name } from '../components/Name';
 import styles from '../styles/Home.module.css';
 import { motion } from 'framer-motion';
 
 export default function Home() {
   const [showStuff, setShowStuff] = useState(false);
+
+  useEffect(() => {
+    const interval = setInterval(() => console.log("There's always another secret..."), 5000);
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div className={styles.container}>
